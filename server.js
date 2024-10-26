@@ -11,8 +11,8 @@ const PORT = 7000;
 app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static('public'));
-mongoose.connect('mongodb://localhost:27017/', {
-  dbName:'admin',
+// cloud connection
+mongoose.connect('mongodb+srv://user2001:user2001@cluster0.cnlx1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
