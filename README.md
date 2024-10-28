@@ -23,9 +23,9 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
 2. **Start MongoDB**
    ```bash
      mongod
-3.**Start the Application**
+3. **Start the Application**
     ```bash
-    node server.js
+     node server.js
 ## Screenshot
 
    
