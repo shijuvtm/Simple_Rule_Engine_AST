@@ -20,6 +20,8 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
 1. **Install Backend Dependencies**
    ```bash
     npm install
+    npm install express
+    npm install mongodb
 2. **Start MongoDB**
    ```bash
      mongod
