@@ -1,4 +1,5 @@
 # Simple-Rule_Engine_with_AST
+
 ## DESCRIPTION
 This application is a Rule Engine application(Simple UI, API and Backend, Data) that determines user eligibility based on attributes like age, department, salary, experience etc.The system can use Abstract Syntax Tree (AST) to represent and manage conditional rules and allow for dynamic rule creation,combination,and evaluation.
 ## Features
@@ -10,8 +11,9 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
 ## Tools and Technology
 - **FrontEnd:** HTML,CSS,JAVASCRIPT.
 - **BackEnd:** EXPRESS.js,NODE.js.
-- **Database:** MongoDB.
+- **Database:** MongoDB cloud.
 - **Editor:** Visual studio code.
+- **webserver:** Docker.
 ## Prerequisites
 - Node.js and Express installed.
 - npm install and nodemon.
@@ -42,6 +44,17 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
  **Evaluate Rule**
  
  ![Capture4](https://github.com/user-attachments/assets/5e6a9a8c-f644-47f1-aaf6-994ae1180b34)
+ 
+ ![Capture5](https://github.com/user-attachments/assets/5bf48020-f10c-4f3e-9db5-bc1636badc3f)
+
+
+
+
+ ## Testing
+  ![Capture4](https://github.com/user-attachments/assets/5e6a9a8c-f644-47f1-aaf6-994ae1180b34)
+ 
+  ![Capture5](https://github.com/user-attachments/assets/5bf48020-f10c-4f3e-9db5-bc1636badc3f)
+ 
 
  
 
