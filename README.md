@@ -29,6 +29,11 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
     ```bash
      node server.js
 ## Screenshot
+ **Rule Creation**
+ 
+ ![Capture1](https://github.com/user-attachments/assets/c8aa95db-327c-4649-a6da-1b6ed745ec49)
+ 
+ ![Capture2edit](https://github.com/user-attachments/assets/b67145b2-7850-4da7-a55c-3eb977ff37aa)
 
    
    
