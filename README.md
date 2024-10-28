@@ -17,4 +17,17 @@ This application is a Rule Engine application(Simple UI, API and Backend, Data) 
 - npm install and nodemon.
 - MongoDB installed and Running.
 ## Installation
+1. **Install Backend Dependencies**
+   ```bash
+    npm install
+2. **Start MongoDB**
+   ```bash
+     mongod
+3.**Start the Application**
+    ```bash
+    node server.js
+## Screenshot
+
+   
+   
 
